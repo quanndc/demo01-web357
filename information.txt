@@ -1,1 +1,3 @@
 name: Trần Thành Huy
+address: 181 Cao Thang
+dob: 01/01/1996
